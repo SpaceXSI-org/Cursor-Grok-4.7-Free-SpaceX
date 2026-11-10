@@ -1,0 +1,2 @@
+Tabs?
+Cursor tabs stay on the same pane.
